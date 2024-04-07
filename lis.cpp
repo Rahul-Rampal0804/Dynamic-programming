@@ -7,7 +7,7 @@ using namespace std;
 // increasing subsequence in arr[] of size n
 int lis(int arr[], int n)
 {
-	int lis[n];
+	int lis[n]; 
 
 	lis[0] = 1;
 
